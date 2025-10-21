@@ -43,8 +43,8 @@ rm -rf /tmp/*.tar.gz >/dev/null 2>&1
 echo -e "${GREEN}✓ Temporary files cleaned${NC}"
 
 # Settings
-plugin=xtreamity
-version=3.0
+plugin=estalker
+version=1.5
 url=https://raw.githubusercontent.com/Ham-ahmed/2210/refs/heads/main/24-estalker.tar.gz
 package=/var/volatile/tmp/$plugin-$version.tar.gz
 
